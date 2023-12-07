@@ -27,10 +27,10 @@ Despite my late start, I have embraced every opportunity to learn and excel. I h
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C#-black?style=flat&logo=C#&logoColor=white"> 
 
 
-### Other Languages I know
- <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+
 
 ---
 
